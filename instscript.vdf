@@ -1,0 +1,34 @@
+"InstallScript"
+{
+	"Registry"
+	{
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Activision\\Call of Duty"
+		{
+			"string"
+			{
+				"InstallPath"				"%INSTALLDIR%"
+				"Version"					"1.5b"
+
+				"english"
+				{
+					"Language"				"1"
+				}
+				
+				"french"
+				{
+					"Language"				"FR"
+				}
+				
+				"german"
+				{
+					"Language"				"GM"
+				}
+				
+				"italian"
+				{
+					"Language"				"IT"
+				}
+			}
+		}
+	}
+}
